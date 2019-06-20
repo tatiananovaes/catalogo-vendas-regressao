@@ -1,7 +1,7 @@
-###Data do projeto: out/2018
-###Data do README: jun/2019
+Data do projeto: out/2018
+Data do README: jun/2019
 
-# ** Projeto catalogo-vendas-regressao**
+# Projeto catalogo-vendas-regressao
   
   O projeto consiste em análise de dados realizada para subsidiar uma empresa quanto à decisão de enviar catálogos impressos com seus
 produtos para novos clientes. No caso, o catálogo do ano somente seria enviado se o lucro resultante desse envio superasse determinado
@@ -27,3 +27,4 @@ https://pt.wikipedia.org/wiki/R%C2%B2
 http://www.portalaction.com.br/analise-de-regressao/analise-dos-residuos
 https://help.alteryx.com/current/pt-br/Formula.htm
 https://community.alteryx.com/t5/Alteryx-Designer-Discussions/Need-help-with-the-formula-tool-for-a-basic-division-problem/td-p/53941
+
