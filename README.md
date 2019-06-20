@@ -27,4 +27,3 @@ https://pt.wikipedia.org/wiki/R%C2%B2
 http://www.portalaction.com.br/analise-de-regressao/analise-dos-residuos
 https://help.alteryx.com/current/pt-br/Formula.htm
 https://community.alteryx.com/t5/Alteryx-Designer-Discussions/Need-help-with-the-formula-tool-for-a-basic-division-problem/td-p/53941
-
